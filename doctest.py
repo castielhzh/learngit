@@ -5,6 +5,10 @@ Created on Thu May 04 21:27:13 2017
 @author: castiel
 """
 
+
+import pandas as pd
+import numpy as np
+
 def fact(n):
     '''
     >>> fact(1)
